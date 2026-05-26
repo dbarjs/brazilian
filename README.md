@@ -1,4 +1,4 @@
-# pkg-placeholder
+# @dbarjs/brazilian
 
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
@@ -6,7 +6,7 @@
 [![JSDocs][jsdocs-src]][jsdocs-href]
 [![License][license-src]][license-href]
 
-_description_
+Brazilian utils
 
 ## Note for Developers
 
@@ -19,24 +19,24 @@ Then for the future releases, you can run `pnpm run release` to do the release a
 ## Sponsors
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/antfu/static/sponsors.svg">
-    <img src="https://cdn.jsdelivr.net/gh/antfu/static/sponsors.svg" alt="Sponsors"/>
+  <a href="https://cdn.jsdelivr.net/gh/dbarjs/static/sponsors.svg">
+    <img src="https://cdn.jsdelivr.net/gh/dbarjs/static/sponsors.svg" alt="Sponsors"/>
   </a>
 </p>
 
 ## License
 
-[MIT](./LICENSE) License © [Anthony Fu](https://github.com/antfu)
+[MIT](./LICENSE) License © [Eduardo Barros](https://github.com/dbarjs)
 
 <!-- Badges -->
 
-[npm-version-src]: https://img.shields.io/npm/v/pkg-placeholder?style=flat&colorA=080f12&colorB=1fa669
-[npm-version-href]: https://npmx.dev/package/pkg-placeholder
-[npm-downloads-src]: https://img.shields.io/npm/dm/pkg-placeholder?style=flat&colorA=080f12&colorB=1fa669
-[npm-downloads-href]: https://npmx.dev/package/pkg-placeholder
-[bundle-src]: https://img.shields.io/bundlephobia/minzip/pkg-placeholder?style=flat&colorA=080f12&colorB=1fa669&label=minzip
-[bundle-href]: https://bundlephobia.com/result?p=pkg-placeholder
-[license-src]: https://img.shields.io/github/license/antfu/pkg-placeholder.svg?style=flat&colorA=080f12&colorB=1fa669
-[license-href]: https://github.com/antfu/pkg-placeholder/blob/main/LICENSE
+[npm-version-src]: https://img.shields.io/npm/v/@dbarjs/brazilian?style=flat&colorA=080f12&colorB=1fa669
+[npm-version-href]: https://npmx.dev/package/@dbarjs/brazilian
+[npm-downloads-src]: https://img.shields.io/npm/dm/@dbarjs/brazilian?style=flat&colorA=080f12&colorB=1fa669
+[npm-downloads-href]: https://npmx.dev/package/@dbarjs/brazilian
+[bundle-src]: https://img.shields.io/bundlephobia/minzip/@dbarjs/brazilian?style=flat&colorA=080f12&colorB=1fa669&label=minzip
+[bundle-href]: https://bundlephobia.com/result?p=@dbarjs/brazilian
+[license-src]: https://img.shields.io/github/license/dbarjs/brazilian.svg?style=flat&colorA=080f12&colorB=1fa669
+[license-href]: https://github.com/dbarjs/brazilian/blob/main/LICENSE
 [jsdocs-src]: https://img.shields.io/badge/jsdocs-reference-080f12?style=flat&colorA=080f12&colorB=1fa669
-[jsdocs-href]: https://www.jsdocs.io/package/pkg-placeholder
+[jsdocs-href]: https://www.jsdocs.io/package/@dbarjs/brazilian
