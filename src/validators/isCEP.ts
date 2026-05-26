@@ -1,0 +1,29 @@
+/**
+ * Pattern to match formatted CEP (99999-999) or 8 numbers.
+ */
+/* eslint-disable regexp/no-unused-capturing-group */
+const CEP_PATTERN = /^(\d{8}|\d{2}\.?\d{3}-\d{3})$/
+
+/**
+ * Check if value is a valid CEP.
+ * @example ```js
+ * isCEP('50.833-000')
+ * //=> true
+ *
+ * isCEP('02998-050')
+ * //=> true
+ *
+ * isCEP('00000000')
+ * //=> true
+ *
+ * isCEP('0')
+ * //=> false
+ *
+ * isCEP('1982891928981982198')
+ * //=> false
+ * ```
+ * @param value - A text containing a CEP.
+ */
+export function isCEP(value: string): boolean {
+  return CEP_PATTERN.test(value)
+}
